@@ -1,5 +1,5 @@
 # Assignment-2
-1-Expense Tracker is a web application that allows users to manage their expenses and incomes. It provides real-time balance updates and visualizations for better financial tracking.
+1-The Expense Tracker is a web application that allows users to manage their expenses and incomes. It provides real-time balance updates and visualizations for better financial tracking.
 Features
 Input Transactions:
 Users can input their expenses and incomes, categorizing them by types (e.g., food, utilities, salary).
